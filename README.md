@@ -21,7 +21,6 @@ This repository contains a cute, stylized 3D pig character model created in Blen
 
 ## License
 
-This model is free to use for personal or educational projects. Please provide appropriate credit to the creator if used in public or commercial projects.
+You are free to use this model for personal or educational projects. If you use it in public or commercial projects, please credit me as the creator.
 
----
 
